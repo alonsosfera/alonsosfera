@@ -33,4 +33,4 @@
 
 
 [instagram]: https://instagram.com/alonsogtzb
-[linkedin]: https://linkedin.com/in/alonsosfera
+[linkedin]: https://linkedin.com/in/alonsogtb
