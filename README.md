@@ -1,10 +1,6 @@
 ### Hi there, I'm Alonso 👋
 
-## I'm a Full Stack Software Engineer! 💻
-
-- 🌱 I’m currently learning server side rendering
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ✈️ Fun fact: I love to travel
+## I'm a Frontend Software Engineer! 💻
 
 ### Languages and Tools:
 
