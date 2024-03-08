@@ -16,7 +16,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="alonso | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="alonso | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin]
 [<img align="left" alt="alonso | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" />][instagram]
 
 <br />
