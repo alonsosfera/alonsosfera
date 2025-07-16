@@ -1,32 +1,53 @@
-### Hi there, I'm Alonso 👋
+# 👋 Hi, I'm Alonso Gutierrez
 
-## I'm a Frontend Software Engineer! 💻
+I'm a **Senior Software Engineer** with 6+ years of experience designing and building high-performance full-stack applications. I’ve led key architecture updates, optimized APIs, and built user-first features for both startups and enterprise-level clients.
 
-### Languages and Tools:
+- 💡 Passionate about solving real-world problems with **clean architecture** and **scalable systems**
+- 🚀 Obsessed with performance — reduced backend response times by 60% at multiple companies
+- 🧠 Mentor, team lead, and Git wizard — I love helping teams work better together
 
-<code><img alt="Webstorm" height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1024px-WebStorm_Icon.svg.png" /></code>
-<code><img alt="JavaScript" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-<code><img alt="React" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
-<code><img alt="NextJS" height="26" src="https://cdn.auth0.com/blog/logos/nextjs-logo.png" /></code>
-<code><img alt="GraphQL" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /></code>
-<code><img alt="Node.js" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
-<code><img alt="PosgreSQL" height="26" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" /></code>
-<code><img alt="GitHub" height="26" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" /></code>
-<code><img alt="Terminal" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
+**Languages:**  
+JavaScript (Node.js, React.js), Java (Spring Boot), PHP
 
-### Connect with me:
+**Frontend:**  
+React.js, Next.js, Redux, Styled-components, Ant Design, Material UI
 
-[<img align="left" alt="alonso | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin]
-[<img align="left" alt="alonso | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" />][instagram]
+**Backend:**  
+Node.js, Express.js, Java (Spring Boot), REST APIs, GraphQL, Serverless, Microservices
 
-<br />
+**Databases:**  
+PostgreSQL, MySQL
+
+**Cloud & DevOps:**  
+Docker, CI/CD, Azure DevOps, Firebase, AWS (EC2, Lambda, S3)
+
+**Testing & Monitoring:**  
+Jest, Mocha, Chai, JUnit, Mockito
+
+**Security:**  
+OAuth, JWT
+
+**Tools:**  
+Git, GitHub, Jira, Jenkins
+
+## 📈 GitHub Stats
+
+![Alonso's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alonsosfera&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alonsosfera&layout=compact)
+
+## 📌 Featured Projects
+
+- [OpenAI API Integration](#) – Enabled full chat history context → improved AI output quality
+- [MS Teams Bot](#) – Real-time notifications and chat actions using Microsoft Bot Framework
+- [GraphQL Optimization](#) – Cut query time by 60% with a recursive algorithm
+
+(*Ask me about any of these!*)
+
+## 📫 Let’s Connect
+
+- **Email:** alonso.gtb@gmail.com  
+- **LinkedIn:** [linkedin.com/in/alonsogtb](https://www.linkedin.com/in/alonsogtb)
 
 ---
 
-### GitHub Stats
-
-<img align="left" alt="Alonso's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alonsosfera&show_icons=true&hide_border=true&hide=contribs,issues&include_all_commits=true&theme=material-palenight" />
-
-
-[instagram]: https://instagram.com/alonsogtzb
-[linkedin]: https://linkedin.com/in/alonsogtb
+✨ *Thanks for visiting my profile — let’s build something amazing!*
